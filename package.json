@@ -43,7 +43,7 @@
     "release": "bumpp && npm publish",
     "start": "tsx src/index.ts",
     "test": "vitest",
-    "typecheck": "tsc --noEmit",
+    "typeCheck": "tsc --noEmit",
     "up": "taze major -I"
   },
   "devDependencies": {
