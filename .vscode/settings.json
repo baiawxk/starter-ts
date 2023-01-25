@@ -1,7 +1,5 @@
 {
-  "cSpell.words": [
-   
-  ],
+  "cSpell.words": [],
   "editor.tabSize": 2,
   "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
   "editor.codeActionsOnSave": {
@@ -19,9 +17,6 @@
   },
   "[typescriptreact]": {
     "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
-  },
-  "[markdown]": {
-    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
   },
   "terminal.integrated.defaultProfile.windows": "Command Prompt"
 }
