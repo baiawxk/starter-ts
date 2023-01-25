@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker",
+    "rvest.vs-code-prettier-eslint",
+    "yzhang.markdown-all-in-one",
+    "xabikos.javascriptsnippets",
+    "visualstudioexptteam.vscodeintellicode",
+    "jasonnutter.search-node-modules",
+    "chrmarti.regex",
+    "zixuanchen.vitest-explorer"
+  ]
+}
